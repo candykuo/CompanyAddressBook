@@ -1,0 +1,60 @@
+[{ 
+    "firstName": "Candy", 
+    "lastName": "Kuo", 
+    "email": "candykuo@gmail.com",
+    "position": "Intern"
+},
+{ 
+    "firstName": "Dennis", 
+    "lastName": "Kim", 
+    "email": "denniskim@gmail.com",
+    "position": "Employee"
+},
+{
+    "firstName": "Kira", 
+    "lastName": "Griswold", 
+    "email": "kiragriswold@gmail.com",
+    "position": "Project Manager"
+},
+{
+    "firstName": "Joel",
+    "lastName": "Nair",
+    "email": "joelnair@yahoo.com",
+    "position": "Financial Consultant"
+},
+{
+    "firstName": "Alex",
+    "lastName": "Malek",
+    "email": "alexandramalek@yahoo.com",
+    "position": "Financial Consultant"
+},
+{
+    "firstName": "Maya",
+    "lastName": "Habash",
+    "email": "mayahabash@gmail.com",
+    "position": "Lawyer"
+},
+{
+    "firstName": "Measu",
+    "lastName": "Bellay",
+    "email": "measubellay@gmail.com",
+    "position": "Human Resources Director"
+},
+{
+    "firstName": "Sahil",
+    "lastName": "Sharma",
+    "email": "sahilsharma@yahoo.com",
+    "position": "Engineer"
+},
+{
+    "firstName": "Melissa",
+    "lastName": "Vailikit",
+    "email": "melissavailikit@yahoo.com",
+    "position": "International Program Manager"
+},
+{
+    "firstName": "IShiun",
+    "lastName": "Kuo",
+    "email": "ishiunkuo@gmail.com",
+    "position": "Senior Programmer"
+}]
